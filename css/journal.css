@@ -12,6 +12,12 @@
     margin-top: 20px;
 }
 
+.headingTwo-title-text{
+    font-size: 20px;
+    color: #167600;
+    text-align: center;
+}
+
 .archive_call {
     margin-left: 822px;
     font-weight: bold;
