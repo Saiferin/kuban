@@ -1,0 +1,471 @@
+.journal{
+    font-size: 20px;
+    font-weight: bold;
+    color: #4b4b4b;
+    margin-top: 36px;
+}
+
+.journal-text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #167600;
+    margin-top: 20px;
+}
+
+.archive_call {
+    margin-left: 822px;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 18px;
+}
+
+.journal-item{
+    margin-top: 30px;
+}
+
+.collll{
+    margin-bottom: 195px;
+}
+
+.journal-item-buy{
+    margin-top: 15px;
+    margin-left: 70px;
+    border-radius: 10px;
+    width: 200px;
+    height: 46px;
+    background: rgba(246,179,179,1);
+    background: -moz-linear-gradient(top, rgba(246,179,179,1) 0%, rgba(203,53,53,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(246,179,179,1)), color-stop(100%, rgba(203,53,53,1)));
+    background: -webkit-linear-gradient(top, rgba(246,179,179,1) 0%, rgba(203,53,53,1) 100%);
+    background: -o-linear-gradient(top, rgba(246,179,179,1) 0%, rgba(203,53,53,1) 100%);
+    background: -ms-linear-gradient(top, rgba(246,179,179,1) 0%, rgba(203,53,53,1) 100%);
+    background: linear-gradient(to bottom, rgba(246,179,179,1) 0%, rgba(203,53,53,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6b3b3', endColorstr='#cb3535', GradientType=0 );
+    -webkit-box-shadow: 0px 7px 10px 2px rgba(195, 195, 195, 0.2);
+    -moz-box-shadow: 0px 7px 10px 2px rgba(195, 195, 195, 0.2);
+    box-shadow: 0px 7px 10px 2px rgba(195, 195, 195, 0.2);
+}
+
+.journal-item-buy-img{
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+.journal-item-buy-text{
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 4px;
+    margin-top: 7px;
+}
+
+.journal-news-composition{
+    font-size: 18px;
+    color: #4b4b4b;
+    border-bottom: 1px solid currentColor;
+}
+
+.journal-news-autor{
+    font-size: 18px;
+    color: #4b4b4b;
+}
+
+.journal-news-title{
+    font-size: 20px;
+    color: #167600;
+}
+
+.journal-news-text{
+    font-size: 18px;
+    color: #4b4b4b;
+}
+
+.journal-news-reed{
+    font-size: 14px;
+    color: #167600;
+    border-bottom:1px solid currentColor;
+    font-style: italic;
+}
+
+.journal-item-line{
+    margin-top: 20px;
+    margin-bottom: -15px;
+    width: 481px;
+    border-bottom: 2px solid  #626262 ;
+}
+
+
+.navbar-light .navbar-nav .active > .open_link-color {
+    font-size: 17px;
+    font-weight: bold;
+    color: #fde200;
+}
+
+.gal-img{
+    height: 25px;
+    margin-top: 0px;
+}
+
+.logo-n{
+    display: none;
+}
+
+.logo-b{
+    display: block;
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199.98px)  {
+
+    .gal-img {
+
+        margin-top: 0px;
+    }
+
+    .archive_social{
+        display: block;
+    }
+
+    .journal-item-img {
+
+        margin-left: 0px;
+    }
+
+    .mtt{
+        height: 26px;
+        margin-top: 16px !important;
+    }
+
+    .journal-item-buy {
+        margin-left:8px;
+    }
+
+    .head_social-img{
+        margin-right: 10px;
+    }
+    .archive_img {
+        margin-left: 212px;
+        margin-top: 44px;
+        height: 250px;
+        width: 482px;
+    }
+    .archive_call {
+        margin-left: 689px;
+        font-weight: bold;
+       margin-top: 0px;
+        margin-bottom: 18px;
+        font-size: 14px;
+        display: block !important;
+        padding-top: 5px;
+    }
+
+    .collll {
+        margin-bottom: 117px;
+    }
+
+
+    .footer_item {
+        margin-left: 0px;
+
+    }
+
+    .nav-item {
+        margin-right: 12px;
+        font-size: 17px;
+        font-weight: bold;
+        color: white;
+    }
+    .journal-item-line {
+        width: 99%;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width : 768px) and (max-width : 1023px){
+    .gal-img {
+
+        margin-top: 0px;
+    }
+
+    .archive_social{
+        display: block;
+    }
+
+    .journal-item-img {
+
+        margin-left: 176px;
+    }
+
+    .mtt{
+        height: 26px;
+        margin-top: 16px !important;
+    }
+
+    .journal-item-buy {
+        margin-left:258px;
+    }
+
+    .head_social-img{
+        margin-right: 10px;
+    }
+    .archive_img {
+        margin-left: 245px;
+        margin-top: 3px;
+        height: 152px;
+        width: 344px;
+    }
+    .archive_call {
+        margin-left: 24px;
+        font-weight: bold;
+        margin-top: 160px;
+        margin-bottom: 18px;
+        font-size: 11px;
+        display: block !important;
+    }
+
+
+    .footer_item {
+        margin-left: 0px;
+
+    }
+
+    .nav-item {
+        margin-right: 20px;
+        font-size: 17px;
+        font-weight: bold;
+        color: white;
+    }
+    .journal-item-line {
+        width: 99%;
+    }
+
+    .logo-n{
+        display: none;
+    }
+
+    .logo-b{
+        display: block;
+    }
+
+    .archive {
+
+        height: 220px;
+    }
+
+    .collll {
+        margin-bottom: 0px;
+    }
+
+
+
+}
+
+@media only screen and (min-width : 640px) and (max-width : 767px){
+    .gal-img {
+
+        margin-top: 0px;
+    }
+    .archive_social{
+        display: flex;
+    }
+
+    .journal-item-img{
+        width: 99%;
+    }
+
+    .mtt{
+        height: 26px;
+        margin-top: 16px !important;
+    }
+
+    .journal-item-buy {
+        margin-left: 156px;
+    }
+
+    .head_social-img{
+        margin-right: 10px;
+    }
+    .archive_img {
+        margin-left: 162px;
+        margin-top: 3px;
+        height: 152px;
+        width: 334px;
+    }
+    .archive_call {
+        margin-left: 14px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 18px;
+        font-size: 13px;
+    }
+    .footer_call{
+        margin-left: 182px;
+    }
+
+      .footer_social {
+        margin-left: 26px;
+
+    }
+
+    .footer_item {
+        margin-left: 157px;
+    }
+    .journal-item-line {
+        width: 99%;
+    }
+
+    .logo-n{
+        display: block;
+    }
+
+    .logo-b{
+        display: none;
+    }
+
+    .archive{
+        background: url(../img/main_bg.jpg) no-repeat center top / cover;
+    }
+
+    .collll {
+        margin-bottom: 0px;
+    }
+
+
+}
+
+@media only screen and (min-width : 480px) and (max-width : 639px) {
+    .archive_social{
+        display: flex;
+    }
+
+    .journal-item-img{
+        width: 99%;
+    }
+
+    .mtt{
+        height: 26px;
+        margin-top: 16px !important;
+    }
+
+    .journal-item-buy {
+        margin-left: 36px;
+    }
+
+    .head_social-img{
+        margin-right: 10px;
+    }
+    .archive_img {
+        margin-left: 155px;
+        margin-top: 6px;
+        height: 129px;
+        width: 296px;
+    }
+    .archive_call {
+        margin-left: 14px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 18px;
+        font-size: 13px;
+    }
+    .journal-item-line {
+        width: 99%;
+    }
+    .footer_call{
+        margin-left: 140px;
+    }
+    .logo-n{
+        display: block;
+    }
+
+    .logo-b{
+        display: none;
+    }
+
+    .archive{
+        background: url(../img/main_bg.jpg) no-repeat center top / cover;
+    }
+    .collll {
+        margin-bottom: 0px;
+    }
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width : 320px) and (max-width : 479px) {
+    .archive_social{
+        display: flex;
+    }
+
+    .journal-item-img{
+        width: 99%;
+    }
+
+    .mtt{
+        height: 26px;
+        margin-top: 16px !important;
+    }
+
+    .journal-item-buy {
+        margin-left: 36px;
+    }
+
+    .head_social-img{
+        margin-right: 10px;
+    }
+    .archive_call {
+        margin-left: 14px;
+        font-weight: bold;
+        margin-top: 16px;
+        margin-bottom: 18px;
+        font-size: 13px;
+    }
+    .footer_item-text{
+        margin-left: 29px;
+    }
+
+    .archive_img {
+         margin-left: 0px;
+        margin-top: 44px;
+        height: 129px;
+        width: 296px;
+    }
+    .footer_call{
+        margin-left: 61px;
+    }
+
+    .footer_item {
+        margin-left: 23px;
+    }
+
+    .journal-item-line {
+        width: 99%;
+    }
+
+    .logo-n{
+        display: block;
+    }
+
+    .logo-b{
+        display: none;
+    }
+
+    .archive{
+        background: url(../img/main_bg.jpg) no-repeat center top / cover;
+    }
+
+    .collll {
+        margin-bottom: 0px;
+    }
+
+
+
+}
+
+
